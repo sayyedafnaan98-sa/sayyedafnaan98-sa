@@ -1,246 +1,154 @@
-<h1 align="center">KALYAN KASHA</h1>
-<h3 align="center">☁️ CLOUD / DEVOPS ENGINEER</h3>
+ <div align="center">
 
-<p align="center">
-Designing secure, scalable and cost-effective cloud platforms across AWS and Azure — with Infrastructure as Code, Kubernetes, GitOps and DevSecOps.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1D4ED8,100:38BDF8&height=195&section=header&text=Afnaan%20Shafkat%20Sayyed&fontSize=34&fontColor=FFFFFF&fontAlignY=36&desc=Senior%20Cloud%20Engineer%20%7C%20AWS%20%7C%20Azure%20%7C%20DevOps&descAlignY=59&descSize=16" width="100%" alt="Afnaan Shafkat Sayyed" />
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-sayyedafnaan98--sa-181717?style=for-the-badge&logo=github)](https://github.com/sayyedafnaan98-sa)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-1D4ED8?style=for-the-badge&logo=gmail)](mailto:sayyedafnaan98@gmail.com)
 
-<p align="center">
-<a href="mailto:kalyankasha2302@gmail.com">
-<img src="https://img.shields.io/badge/Email-kalyankasha2302@gmail.com-red?style=for-the-badge&logo=gmail">
-</a>
+</div>
 
-<a href="https://www.linkedin.com/in/kalyan-k-6b8a37129/">
-<img src="https://img.shields.io/badge/LinkedIn-Kalyan_Kasha-blue?style=for-the-badge&logo=linkedin">
-</a>
+## About Me
 
-<a href="tel:+14088835015">
-<img src="https://img.shields.io/badge/Phone-+1_408_883_5015-gray?style=for-the-badge&logo=phone">
-</a>
+I'm **Afnaan Shafkat Sayyed**, a **Senior Cloud Engineer** with **5+ years of experience** designing, deploying, and managing scalable, secure, and highly available cloud infrastructure across AWS and Microsoft Azure.
 
-<a href="#">
-<img src="https://img.shields.io/badge/Location-California,_USA-green?style=for-the-badge&logo=googlemaps">
-</a>
-</p>
+My expertise includes:
 
----
+- ☁️ Multi-cloud infrastructure across AWS and Azure
+- 🧱 Infrastructure as Code using Terraform, CloudFormation, and Azure Bicep
+- 🚀 CI/CD automation using Jenkins, GitHub Actions, GitLab CI/CD, and Azure DevOps
+- 🐳 Containerization and orchestration using Docker, Kubernetes, EKS, ECS, and AKS
+- 🔐 Cloud security, IAM, encryption, governance, and compliance
+- 📊 Monitoring, incident management, disaster recovery, and cost optimization
 
-<h2 align="center">🧑‍💼 PROFESSIONAL SUMMARY</h2>
+I enjoy building reliable cloud platforms, automating infrastructure, improving deployment processes, and solving real-world engineering challenges.
 
-<p align="center">
-Cloud/DevOps Engineer with <b>4+ years of experience</b> designing, automating and managing secure cloud infrastructure across <b>AWS and Azure</b> for <b>financial services and e-commerce</b> platforms.
-</p>
+## Technical Skills
 
-<p align="center">
-Experienced in building <b>enterprise cloud landing zones</b>, automating provisioning with <b>Infrastructure as Code</b>, and deploying scalable containerized applications on <b>Kubernetes</b> (EKS/AKS). Skilled in <b>CI/CD, GitOps</b>, cloud security, governance, compliance and observability.
-</p>
+| Category | Technologies |
+|---|---|
+| **Cloud Platforms** | AWS, Microsoft Azure, GCP |
+| **AWS Services** | EC2, S3, VPC, IAM, Lambda, EKS, ECS, RDS, DynamoDB, CloudFront, Route 53, CloudWatch, KMS, Secrets Manager, API Gateway |
+| **Azure Services** | Azure VMs, AKS, Azure Functions, Azure Storage, Azure Monitor, Azure Key Vault, Azure DevOps, Azure Policy |
+| **Infrastructure as Code** | Terraform, AWS CloudFormation, Azure Bicep, Ansible |
+| **DevOps & CI/CD** | Jenkins, GitHub Actions, GitLab CI/CD, Azure DevOps, Git, Argo CD, GitOps |
+| **Containers** | Docker, Kubernetes, Helm, Kustomize |
+| **Programming & Scripting** | Python, Bash, PowerShell, SQL |
+| **Monitoring** | Prometheus, Grafana, Splunk, Datadog, ELK Stack, OpenTelemetry, CloudWatch, Azure Monitor |
+| **Security** | IAM, RBAC, SSO, HashiCorp Vault, Encryption, DevSecOps, Zero Trust, HIPAA, HITECH, PCI DSS, SOC 2 |
+| **Networking** | VPC/VNet, TCP/IP, DNS, VPN, Load Balancing, Firewalls, CDN, Hybrid Cloud, Multi-Region Architecture |
+| **Databases** | PostgreSQL, MySQL, SQL Server, Oracle, Redis |
+| **Cloud Operations** | Linux, Windows Server, Incident Management, Disaster Recovery, AWS Cost Explorer, Azure Cost Management |
 
-<p align="center">
-Proven track record of optimizing cloud operations, strengthening security controls, supporting real-time business-critical applications, and delivering <b>highly available, resilient and cost-effective</b> solutions in regulated and high-traffic environments — achieving <b>99.99% platform availability</b> and <b>30% cost reduction</b>.
-</p>
+## Featured Projects
 
----
+### ☁️ AWS Animal Crossing
 
-<h2 align="center">🛠 TECH STACK</h2>
+An AWS-focused project built around Animal Crossing data and cloud services.
 
-<p align="center">
+**Technologies:** AWS · Cloud Architecture · Infrastructure Automation
 
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
-<img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white">
-<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white">
-<img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python">
+[View Repository](https://github.com/sayyedafnaan98-sa/AWSAnimalCrossing)
 
-<br>
+### 🗄️ eDB — Embedded Multi-Model Database
 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
-<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white">
-<img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white">
-<img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white">
-
-<br>
+An embedded database project exploring multiple data models and developer-friendly database access, with a Python-based engine and web interface.
 
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
-<img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
-<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white">
+**Technologies:** Python · SQLite · FastAPI · React · TypeScript
 
-<br>
+[View Repository](https://github.com/sayyedafnaan98-sa/eDB)
 
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white">
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
-<img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white">
-<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white">
-<img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white">
-<img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+### 🚀 Blue-Green Deployments for ECS
 
-<br>
+A project exploring blue-green deployment patterns for workloads running on Amazon ECS.
 
-<img src="https://img.shields.io/badge/HashiCorp_Vault-000000?style=for-the-badge&logo=vault&logoColor=white">
-<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white">
-<img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white">
-<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
-<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white">
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
+**Technologies:** AWS · Amazon ECS · Deployment Strategies · DevOps
 
-</p>
+[View Repository](https://github.com/sayyedafnaan98-sa/blue-green-deployments-ecs)
 
-<p align="center">
-<b>Cloud Platforms:</b> AWS (EC2, S3, VPC, IAM, RDS, EKS, Lambda, CloudWatch, Route 53, ELB, Auto Scaling) • Microsoft Azure (AKS, Azure DevOps, Azure Monitor, Azure Key Vault)
-</p>
-
-<p align="center">
-<b>Infrastructure as Code:</b> Terraform • Terragrunt • AWS CloudFormation • Azure Bicep • Ansible • Python • Bash • PowerShell
-</p>
+### 📈 Application Health Monitoring with VPC Lattice & CloudWatch
 
-<p align="center">
-<b>CI/CD & Version Control:</b> Jenkins • GitHub Actions • GitLab CI/CD • Azure DevOps • Maven • Gradle • Git • GitHub • GitLab • Bitbucket
-</p>
-
-<p align="center">
-<b>Containers & Orchestration:</b> Docker • Kubernetes (EKS, AKS) • Helm • Argo CD • OpenShift
-</p>
+An infrastructure-as-code project for monitoring application health and responding to service issues using AWS monitoring and automation services.
 
-<p align="center">
-<b>Monitoring & Observability:</b> Prometheus • Grafana • ELK Stack • Splunk • Datadog • AWS CloudWatch • Azure Monitor
-</p>
+**Technologies:** VPC Lattice · CloudWatch · Lambda · SNS · Terraform · AWS CDK · CloudFormation
 
-<p align="center">
-<b>Security & DevSecOps:</b> HashiCorp Vault • SonarQube • Snyk • IAM • OAuth 2.0 • OpenID Connect (OIDC) • Secrets Management • Vulnerability Scanning
-</p>
+[View Repository](https://github.com/sayyedafnaan98-sa/application-health-monitoring-lattice-cloudwatch)
 
-<p align="center">
-<b>Databases & Messaging:</b> PostgreSQL • MySQL • MongoDB • Snowflake • Amazon Redshift • DynamoDB • Redis • Apache Kafka • RabbitMQ
-</p>
+### 📱 Mobile Price Predictor with AWS SageMaker
 
-<p align="center">
-<b>OS & Networking:</b> Linux • Windows • macOS • TCP/IP • DNS • Load Balancers • VPN • Firewalls • Network Security
-</p>
+A machine-learning web application that predicts smartphone price categories using Amazon SageMaker.
 
-<p align="center">
-<b>Compliance & Methodologies:</b> PCI-DSS • SOX • SOC 2 • NIST • Agile • Scrum • DevSecOps • Site Reliability Engineering (SRE)
-</p>
+**Technologies:** Python · Flask · Machine Learning · Amazon SageMaker
 
----
+[View Repository](https://github.com/sayyedafnaan98-sa/Mobile-Price-Predictor-using-AWS-Sagemaker)
 
-<h2 align="center">💼 PROFESSIONAL EXPERIENCE</h2>
+## Professional Experience
 
-<h3>Cloud/DevOps Engineer — Morgan Stanley</h3>
-<p><b>USA | Jan 2025 – Current</b></p>
+### Senior Cloud Engineer — UnitedHealth Group, USA
 
-<ul>
-<li>Architected and implemented secure <b>AWS and Azure landing zones</b> for trading, risk management and wealth management platforms, establishing enterprise-grade networking, IAM, governance and security controls.</li>
-<li>Automated infrastructure provisioning and environment management using <b>Terraform and Terragrunt</b>, reducing manual deployment efforts by <b>80%</b> and ensuring consistent infrastructure across dev, QA, UAT and production.</li>
-<li>Built and administered highly available <b>Kubernetes platforms on Amazon EKS and Azure AKS</b>, supporting scalable microservices-based financial applications with improved reliability and performance.</li>
-<li>Implemented <b>CI/CD and GitOps workflows</b> using Jenkins, GitHub Actions, Argo CD and Helm, accelerating software delivery cycles and improving deployment consistency across cloud environments.</li>
-<li>Automated infrastructure operations, configuration management and platform maintenance using <b>Python, Bash and Ansible</b>, reducing operational overhead.</li>
-<li>Designed and secured cloud networking architectures using <b>VPCs, PrivateLink, HashiCorp Vault, AWS Secrets Manager and Azure Key Vault</b> to protect sensitive financial data and strengthen access controls.</li>
-<li>Established end-to-end monitoring and observability using <b>Prometheus, AWS CloudWatch and Azure Monitor</b>, enabling proactive performance management and faster incident resolution.</li>
-<li>Strengthened cloud security and compliance posture by automating policy enforcement, vulnerability remediation and audit controls aligned with <b>SOX, PCI-DSS, SEC and FINRA</b> requirements.</li>
-<li>Supported <b>Kafka-based</b> real-time market data processing, trade execution and risk analytics platforms while implementing <b>blue-green and canary deployment</b> strategies to minimize release risk.</li>
-<li>Managed multi-region disaster recovery, cloud cost optimization and production support — achieving <b>99.99% platform availability</b> while reducing operational costs by <b>30%</b>.</li>
-</ul>
+*June 2025 – Present*
 
----
+- Engineer AWS and Azure infrastructure for healthcare applications, claims processing, analytics, and AI/ML workloads.
+- Automated provisioning of **100+ cloud resources** using Terraform and Python, reducing environment setup time by **50%**.
+- Designed private networking across AWS VPCs and Azure VNets for **20+ application and data services**.
+- Support containerized workloads on Amazon EKS and Azure Kubernetes Service, with a **99.9% production availability target**.
+- Standardized CI/CD pipelines, reducing deployment effort by **35%**.
+- Improved monitoring and incident response, reducing infrastructure MTTR by **25%**.
+- Implemented backup and recovery practices targeting **15-minute RPO** and **4-hour RTO**.
+- Optimized cloud resource utilization, reducing compute and storage spend by **15%**.
 
-<h3>Cloud Engineer — HCL Tech</h3>
-<p><b>India | Feb 2020 – Aug 2022</b></p>
+### Cloud Engineer — Mphasis, India
 
-<ul>
-<li>Designed and deployed a secure <b>AWS cloud environment</b> for a large-scale e-commerce platform, supporting product catalog, order management, payment processing and customer services across multiple environments.</li>
-<li>Automated infrastructure provisioning using <b>Terraform</b>, reducing environment setup time by <b>80%</b> and improving deployment consistency across development, testing and production.</li>
-<li>Built and managed containerized microservices on <b>Amazon EKS</b> with load balancing and auto-scaling, enabling the platform to handle millions of customer requests and maintain performance during flash sales and peak shopping events.</li>
-<li>Implemented <b>CI/CD pipelines</b> using Jenkins and GitHub Actions, increasing deployment frequency by <b>70%</b> while reducing manual release efforts and deployment errors.</li>
-<li>Integrated <b>Amazon RDS and Redis caching</b> to accelerate transaction processing and product searches, reducing application response times.</li>
-<li>Configured <b>IAM, encryption and web application firewall</b> policies to secure customer data and protect business-critical applications.</li>
-<li>Established centralized monitoring and alerting using <b>CloudWatch and Grafana</b> alongside multi-AZ disaster recovery strategies, reducing incident resolution time by <b>45%</b> and ensuring business continuity during failures.</li>
-<li>Collaborated with development, QA and operations teams in an <b>Agile</b> environment to optimize cloud resources and maintain high availability for daily e-commerce operations.</li>
-</ul>
+*July 2022 – August 2024*
 
----
+- Migrated **50+ banking application servers** from on-premises environments to AWS.
+- Migrated **5+ banking databases** using AWS Database Migration Service.
+- Standardized infrastructure provisioning with Terraform and CloudFormation, reducing manual effort by **35%**.
+- Strengthened access governance with IAM, KMS encryption, private subnet isolation, and CloudTrail.
+- Improved monitoring and troubleshooting, reducing MTTR by **25%**.
+- Reduced monthly AWS infrastructure expenditure by **15%** through rightsizing and storage lifecycle policies.
+- Developed Python and Bash scripts for proactive infrastructure health checks and capacity analysis.
 
-<h2 align="center">🚀 FEATURED PROJECTS</h2>
+### Cloud Engineer — Infosys, India
 
-<h3>🏦 Enterprise Cloud Landing Zones & GitOps Platform — Morgan Stanley</h3>
-<p><b>2025 – Present</b></p>
-<ul>
-<li>Built secure multi-cloud (<b>AWS + Azure</b>) landing zones for trading, risk and wealth management platforms with enterprise networking, IAM and governance.</li>
-<li>Delivered Terraform/Terragrunt automation and <b>GitOps</b> pipelines (Argo CD, Helm) on <b>EKS/AKS</b>, cutting manual deployment effort by <b>80%</b>.</li>
-<li>Achieved <b>99.99% availability</b> with multi-region DR, while reducing operational costs by <b>30%</b>.</li>
-</ul>
+*October 2020 – June 2022*
 
----
+- Provisioned AWS infrastructure using EC2, VPC, subnets, security groups, Application Load Balancer, and Auto Scaling.
+- Automated infrastructure provisioning with Terraform and CloudFormation, reducing manual setup effort by **30%**.
+- Built Jenkins, Git, and Maven CI/CD pipelines, reducing deployment turnaround time by **25%**.
+- Implemented multi-AZ architecture, load balancing, Route 53 routing, and backup and recovery procedures.
+- Improved incident diagnosis through CloudWatch dashboards, alarms, CloudTrail, and Linux troubleshooting.
+- Supported cloud security controls and production incident root-cause analysis.
 
-<h3>🛒 E-Commerce Cloud Platform on AWS — HCL Tech</h3>
-<p><b>2020 – 2022</b></p>
-<ul>
-<li>Designed and deployed a secure AWS environment for a large-scale online retail platform using <b>EKS, load balancing and auto-scaling</b> to handle flash-sale traffic.</li>
-<li>Automated provisioning with <b>Terraform</b> (80% faster environment setup) and CI/CD with Jenkins and GitHub Actions (70% higher deployment frequency).</li>
-<li>Reduced incident resolution time by <b>45%</b> through CloudWatch/Grafana monitoring and multi-AZ disaster recovery.</li>
-</ul>
+## Certifications
 
----
+- Microsoft Certified: **DevOps Engineer Expert (AZ-400)**
+- Microsoft Certified: **Azure Developer Associate (AZ-204)**
+- Microsoft Certified: **Identity and Access Administrator Associate (SC-300)**
+- Microsoft Certified: **Information Protection and Compliance Administrator Associate (SC-400)**
 
-<h2 align="center">📋 CLOUD EXPERTISE</h2>
+## Education
 
-<p align="center">
-Enterprise Cloud Landing Zones • Infrastructure as Code (IaC) • CI/CD & GitOps • Kubernetes & Container Orchestration<br>
-Cloud Security & Governance • DevSecOps • Observability & Monitoring • Disaster Recovery • Cost Optimization<br>
-PCI-DSS • SOX • SOC 2 • NIST • Site Reliability Engineering (SRE) • Agile / Scrum • Production Support
-</p>
+- **Master's in Information Systems** — DePaul University, Illinois, USA
+- **Bachelor of Engineering in Mechanical Engineering** — Vishwakarma Institute of Information Technology, India
 
----
+## Areas of Interest
 
-<h2 align="center">🎓 EDUCATION</h2>
+- Multi-cloud and hybrid-cloud architecture
+- Kubernetes and platform engineering
+- Terraform and reusable infrastructure automation
+- Secure CI/CD, GitOps, and progressive delivery
+- Cloud observability and SRE practices
+- Disaster recovery and cloud cost optimization
 
-<p align="center">
+## Let's Connect
 
-<b>Master of Science — Data Science</b><br>
-University of the Cumberlands, USA · <i>May 2023 – Dec 2024</i>
+I'm interested in connecting with cloud engineers, DevOps professionals, and technology enthusiasts to share knowledge and explore innovative cloud solutions.
 
-<br><br>
+<div align="center">
 
-<b>Master of Science — Computer Science</b><br>
-Duquesne University, USA · <i>Aug 2022 – May 2023</i>
+[![GitHub](https://img.shields.io/badge/GitHub-sayyedafnaan98--sa-181717?style=flat-square&logo=github)](https://github.com/sayyedafnaan98-sa)
+[![Email](https://img.shields.io/badge/Email-sayyedafnaan98%40gmail.com-D14836?style=flat-square&logo=gmail)](mailto:sayyedafnaan98@gmail.com)
 
-<br><br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1D4ED8,100:38BDF8&height=100&section=footer" width="100%" alt="Footer banner" />
 
-<b>Bachelor of Technology — Information Technology</b><br>
-Vardhaman College of Engineering, Hyderabad, India · <i>Aug 2016 – Sept 2020</i>
-
-</p>
-
----
-
-<h2 align="center">📊 GITHUB ANALYTICS</h2>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kalyank232&show_icons=true&theme=tokyonight&hide_border=true">
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kalyank232&theme=tokyonight&hide_border=true">
-</p>
-
----
-
-<h2 align="center">📬 CONNECT WITH ME</h2>
-
-<p align="center">
-
-<b>Email:</b> kalyankasha2302@gmail.com<br>
-<b>Phone:</b> +1 (408) 883-5015<br>
-<b>Location:</b> California, USA<br>
-<b>LinkedIn:</b> https://www.linkedin.com/in/kalyan-k-6b8a37129/
-
-</p>
-
----
-
-<p align="center">
-    <i>Automating the cloud, one pipeline at a time — delivering secure, resilient and cost-efficient AWS & Azure solutions.</i>
-</p>
+</div>
