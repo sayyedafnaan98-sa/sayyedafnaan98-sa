@@ -2,8 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1D4ED8,100:38BDF8&height=195&section=header&text=Afnaan%20Shafkat%20Sayyed&fontSize=34&fontColor=FFFFFF&fontAlignY=36&desc=Senior%20Cloud%20Engineer%20%7C%20AWS%20%7C%20Azure%20%7C%20DevOps&descAlignY=59&descSize=16" width="100%" alt="Afnaan Shafkat Sayyed" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-sayyedafnaan98--sa-181717?style=for-the-badge&logo=github)](https://github.com/sayyedafnaan98-sa)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-1D4ED8?style=for-the-badge&logo=gmail)](mailto:sayyedafnaan98@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-sayyedafnaan98--sa-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sayyedafnaan98-sa)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-1D4ED8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayyedafnaan98@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-%2B1%20872--221--0042-2E8B57?style=for-the-badge&logo=phone&logoColor=white)](tel:+18722210042)
 
 </div>
 
@@ -148,6 +149,7 @@ I'm interested in connecting with cloud engineers, DevOps professionals, and tec
 
 [![GitHub](https://img.shields.io/badge/GitHub-sayyedafnaan98--sa-181717?style=flat-square&logo=github)](https://github.com/sayyedafnaan98-sa)
 [![Email](https://img.shields.io/badge/Email-sayyedafnaan98%40gmail.com-D14836?style=flat-square&logo=gmail)](mailto:sayyedafnaan98@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-%2B1%20872--221--0042-2E8B57?style=flat-square&logo=phone)](tel:+18722210042)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1D4ED8,100:38BDF8&height=100&section=footer" width="100%" alt="Footer banner" />
 
