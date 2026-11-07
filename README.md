@@ -47,7 +47,7 @@ An AWS-focused project built around Animal Crossing data and cloud services.
 
 **Technologies:** AWS · Cloud Architecture · Infrastructure Automation
 
-[View Repository](https://github.com/sayyedafnaan98-sa/AWSAnimalCrossing)
+[View Repository](https://github.com/sayyedafnaan98-sa/AWSCrossingAnimal)
 
 ### 🗄️ eDB — Embedded Multi-Model Database
 
